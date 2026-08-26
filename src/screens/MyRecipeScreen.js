@@ -137,9 +137,9 @@ import {
       padding: wp(.7),
       alignItems: "center",
       borderRadius: 5,
-      width:300,
-     marginLeft:500
-      // marginBottom: hp(2),
+      width: wp(80),
+      alignSelf: "center",
+      marginBottom: hp(2),
     },
     addButtonText: {
       color: "#fff",
